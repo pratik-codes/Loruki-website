@@ -7,5 +7,5 @@
 ## What is Loruki?
 - It is a cloud hosting provider like heroku. I use heroku a lot so now you know where the name of the website came from :D
 - It has three page Home - which tells about the company, Features Which givers some stats about the company, Docs - which has documentation on how to use the website.
-
+![Image](https://github.com/pratiktiwari1212/Loruki-website/blob/master/Loruki.gif)
 # The website is up and running [here](https://hungry-kalam-255f5c.netlify.app/index.html)
